@@ -39,3 +39,5 @@ Manufacturers – Monitor raw material inventory & supplier efficiency
 Logistics Providers – Optimize distribution networks
 
 Business Leaders – Strategic decision-making with data-driven insights
+
+
