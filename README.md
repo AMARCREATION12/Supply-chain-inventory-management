@@ -22,7 +22,7 @@ The dashboard provides actionable insights into:
  Creating a professional and interactive dashboard
  Real-world storytelling techniques in Power BI
 
-Tech Stack
+**Tech Stack**
 
 Power BI Desktop (Visualization & Analytics)
 
@@ -30,7 +30,7 @@ DAX & Power Query (Data Modeling & Transformation)
 
 Excel / CSV (Data Source Integration)
 
-Use Cases
+**Use Cases**
 
 Retailers – Track stock levels & avoid stockouts
 
